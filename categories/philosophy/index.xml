@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Philosophy on Moitree Basu Personal Blog</title>
-    <link>https://moitreebasu.github.io/categories/philosophy/</link>
+    <link>http://moitreebasu.github.io/categories/philosophy/</link>
     <description>Recent content in Philosophy on Moitree Basu Personal Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 20 May 2020 18:30:20 +0200</lastBuildDate>
     
-	<atom:link href="https://moitreebasu.github.io/categories/philosophy/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://moitreebasu.github.io/categories/philosophy/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>13 Lucky Ways to Deal with Self-Quarantine Blues during Coronavirus Outbreak</title>
-      <link>https://moitreebasu.github.io/organize-your-life.1/</link>
+      <link>http://moitreebasu.github.io/organize-your-life.1/</link>
       <pubDate>Wed, 20 May 2020 18:30:20 +0200</pubDate>
       
-      <guid>https://moitreebasu.github.io/organize-your-life.1/</guid>
+      <guid>http://moitreebasu.github.io/organize-your-life.1/</guid>
       <description>Corona confinement can be difficult for everyone and for very different reasons.</description>
     </item>
     
